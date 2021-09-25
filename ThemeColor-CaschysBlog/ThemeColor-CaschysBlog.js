@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        Theme Color: Caschys Blog
 // @description Set Theme Color for Caschys Blog on Safari 15+
+// @downloadURL https://github.com/ZepDonald/UserScripts/blob/main/ThemeColor-CaschysBlog/ThemeColor-CaschysBlog.js
 // @match       https://stadt-bremerhaven.de/*
 // @include     https://stadt-bremerhaven.de/*
 // ==/UserScript==
