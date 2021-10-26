@@ -11,6 +11,6 @@
 (function() {
     var meta = document.createElement('meta');
     meta.name = "theme-color";
-    meta.content = "#2A3761";
+    meta.content = "#6572FF";
     document.getElementsByTagName('head')[0].appendChild(meta);
 })();
